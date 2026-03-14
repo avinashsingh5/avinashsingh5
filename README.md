@@ -13,7 +13,7 @@
 - 🎓 **B.Tech CSE Student** at Lovely Professional University (CGPA: 7.6).
 - 💻 **Full-Stack Developer** passionate about building scalable web applications.
 - 🚀 **Specializing in:** Java, React, Node.js, and Generative AI.
-- 🌍 **Check out my work:** [www.avinashsingh.me](https://www.avinashsingh.me/)
+
 
 ---
 
